@@ -8,8 +8,7 @@ https://drive.google.com/file/d/11U_kLNn6ngPltWQ1raN16SSy8tQ9fpL5/view?usp=shari
 
 
 Link to IMHO+Context dataset: 
-You can choose to keep the IMO/IMHO keywords. We removed them based on 
-https://www.aclweb.org/anthology/N19-1054 
+You can choose to keep the IMO/IMHO keywords. We removed them based on Chakrabarty et al (2019) [https://www.aclweb.org/anthology/N19-1054]
 
 https://drive.google.com/file/d/1HGInaDp6nlAZUfqU5V1BM8j4su3DKKsc/view?usp=sharing
 
