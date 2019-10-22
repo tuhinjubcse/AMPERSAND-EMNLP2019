@@ -24,6 +24,23 @@ Load fine-tuned models instead of pretrained BERT and use the data in
 https://github.com/chridey/change-my-view-modes
 
 
+For RST :
+
+Use https://www.aclweb.org/anthology/D18-1116.pdf for EDU segmentation
+Use for getting RST parse trees https://github.com/jiyfeng/DPLP
+Once you have parse trees you can get features from them
+
+For BERT 
+
+use this code (Hugging face code used during time of publication)
+https://drive.google.com/file/d/1nc0A4C7RTGnDpsDtP3UwddXoOIRT_06-/view?usp=sharing
+
+
+For Summarization
+
+https://github.com/nlpyang/BertSum
+
+
 
 
 
