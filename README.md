@@ -20,6 +20,10 @@ Link to QR fine-tuned model
 https://drive.google.com/file/d/1wWs_0pb2N9dmXz6RjnW7TiJkV-b1m9Np/view?usp=sharing
 
 
+Load fine-tuned models instead of pretrained BERT and use the data in
+https://github.com/chridey/change-my-view-modes
+
+
 
 
 
