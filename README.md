@@ -39,6 +39,8 @@ https://drive.google.com/file/d/1nc0A4C7RTGnDpsDtP3UwddXoOIRT_06-/view?usp=shari
 For Summarization
 
 https://github.com/nlpyang/BertSum
+https://drive.google.com/file/d/1iyPb_z775V7qVRD8_kGXCFxGuSoku3Hr/view?usp=sharing (doc-summary pairs)
+
 
 
 
