@@ -30,17 +30,12 @@ Use https://www.aclweb.org/anthology/D18-1116.pdf for EDU segmentation
 Use for getting RST parse trees https://github.com/jiyfeng/DPLP
 Once you have parse trees you can get features from them
 
-For BERT 
 
-use this code (Hugging face code used during time of publication)
-https://drive.google.com/file/d/1nc0A4C7RTGnDpsDtP3UwddXoOIRT_06-/view?usp=sharing
 
 
 For Summarization
 
 https://github.com/nlpyang/BertSum
-
-
 https://drive.google.com/file/d/1iyPb_z775V7qVRD8_kGXCFxGuSoku3Hr/view?usp=sharing (doc-summary pairs)
 
 
