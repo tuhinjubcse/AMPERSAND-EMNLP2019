@@ -51,22 +51,12 @@ https://drive.google.com/file/d/1iyPb_z775V7qVRD8_kGXCFxGuSoku3Hr/view?usp=shari
 
 If you use any of these , please cite us
 
-    @inproceedings{chakrabarty-etal-2019-ampersand,
-        title = "{AMPERSAND}: Argument Mining for {PERS}u{A}sive o{N}line Discussions",
-        author = "Chakrabarty, Tuhin  and
-          Hidey, Christopher  and
-          Muresan, Smaranda  and
-          McKeown, Kathy  and
-          Hwang, Alyssa",
-        booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th         International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
-        month = nov,
-        year = "2019",
-        address = "Hong Kong, China",
-        publisher = "Association for Computational Linguistics",
-        url = "https://www.aclweb.org/anthology/D19-1291",
-        doi = "10.18653/v1/D19-1291",
-        pages = "2933--2943"
-    }
+  @article{chakrabarty2020ampersand,
+  title={AMPERSAND: Argument Mining for PERSuAsive oNline Discussions},
+  author={Chakrabarty, Tuhin and Hidey, Christopher and Muresan, Smaranda and Mckeown, Kathy and Hwang, Alyssa},
+  journal={arXiv preprint arXiv:2004.14677},
+  year={2020}
+}
 
 
 
