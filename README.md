@@ -51,12 +51,12 @@ https://drive.google.com/file/d/1iyPb_z775V7qVRD8_kGXCFxGuSoku3Hr/view?usp=shari
 
 If you use any of these , please cite us
 
-  @article{chakrabarty2020ampersand,
-  title={AMPERSAND: Argument Mining for PERSuAsive oNline Discussions},
-  author={Chakrabarty, Tuhin and Hidey, Christopher and Muresan, Smaranda and Mckeown, Kathy and Hwang, Alyssa},
-  journal={arXiv preprint arXiv:2004.14677},
-  year={2020}
-}
+        @article{chakrabarty2020ampersand,
+        title={AMPERSAND: Argument Mining for PERSuAsive oNline Discussions},
+        author={Chakrabarty, Tuhin and Hidey, Christopher and Muresan, Smaranda and Mckeown, Kathy and Hwang, Alyssa},
+        journal={arXiv preprint arXiv:2004.14677},
+        year={2020}
+      }
 
 
 
