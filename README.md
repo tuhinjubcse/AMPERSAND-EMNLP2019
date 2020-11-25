@@ -11,8 +11,7 @@ https://github.com/tuhinjubcse/AMPERSAND-EMNLP2019/blob/master/argmining/example
 
 For Argumentative Component Prediction and Relation Prediction:
 Link to FineTuned Pytorch Model using IMHO+Context as Intermediate Pretraining over BERT:
-https://drive.google.com/file/d/16TmUPPl4xyvkOmqINkc4kHS54TOXPUZI/view?usp=sharing
-
+https://drive.google.com/uc?id=11U_kLNn6ngPltWQ1raN16SSy8tQ9fpL5&export=download
 
 Link to QR fine-tuned model
 https://drive.google.com/file/d/1wWs_0pb2N9dmXz6RjnW7TiJkV-b1m9Np/view?usp=sharing
