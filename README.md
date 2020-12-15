@@ -4,8 +4,9 @@ These models were fintuned using older version of hugging face and not transform
 
 
 There are two steps of fine tuning involved here.
-        - Intermediate fine-tuning on Distantly labeled data for improved representation learning
-        - Task Specific Fine-tuning on labeled data
+                
+                        Intermediate fine-tuning on Distantly labeled data for improved representation learning
+                        Task Specific Fine-tuning on labeled data
         
 I have provided Intermediate fine-tuned model on Distantly labeled data below, however you have to train on task specific data
 If you want to train on Hidey et al (2017) the dataset used in this paper, get data here
