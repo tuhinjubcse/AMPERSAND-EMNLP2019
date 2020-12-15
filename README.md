@@ -3,7 +3,17 @@ Code and Data for EMNLP 2019 paper titled  AMPERSAND: Argument Mining for PERSuA
 These models were fintuned using older version of hugging face and not transformers package . used pytorch-pretrained-bert=0.4.0
 
 
-There are two steps of fine tuning involved here. To load finetuned models on distantly labeled data IMHO (intra relation / claim - premise ) classification and QR for inter relation classification 
+There are two steps of fine tuning involved here.
+        - Intermediate fine-tuning on Distantly labeled data for improved representation learning
+        - Task Specific Fine-tuning on labeled data
+        
+I have provided Intermediate fine-tuned model on Distantly labeled data below, however you have to train on task specific data
+If you want to train on Hidey et al (2017) the dataset used in this paper, get data here
+https://github.com/chridey/change-my-view-modes
+
+You can also email me tuhin.chakr@cs.columbia.edu for a preprocessed version.
+
+To load finetuned models on distantly labeled data IMHO (intra relation / claim - premise ) classification and QR for inter relation classification 
 
 load respective models in this line
 https://github.com/tuhinjubcse/AMPERSAND-EMNLP2019/blob/master/argmining/examples/run_classifier.py#L498
@@ -28,8 +38,7 @@ https://drive.google.com/file/d/10l96wL1VQlApC1h0LPOjUpGAtyRZvMPO/view?usp=shari
 
 To reproduce our results in paper follow the details in AMPERSAND_Supplementary.pdf uploaded
 
-Load fine-tuned models instead of pretrained BERT and use the data mentioned below to further fine-tune
-https://github.com/chridey/change-my-view-modes
+Load fine-tuned models instead of pretrained BERT and use the data mentioned below to further fine-tune on task specific data
 
 If you want to know more see this issue
 https://github.com/tuhinjubcse/AMPERSAND-EMNLP2019/issues/2
